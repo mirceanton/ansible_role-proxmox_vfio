@@ -1,5 +1,5 @@
 ---
-proxmox_vfio_modules: 
+proxmox_vfio_modules:
   - vfio
   - vfio_iommu_type1
   - vfio_pci

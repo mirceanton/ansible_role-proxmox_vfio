@@ -1,0 +1,6 @@
+---
+- name: Update initramfs
+  ansible.builtin.shell: update-initramfs -u -k all
+
+- name: Reboot
+  ansible.builtin.reboot:

@@ -35,6 +35,9 @@ Example Playbook
     - role: mirceanton.proxmox_vfio
 ```
 
+License
+-------
+
 MIT
 
 Author Information
